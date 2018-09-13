@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\新建文件夹\a\a\bin\Debug\a.exe
+C:\Users\Administrator\Desktop\新建文件夹\a\a\bin\Debug\a.pdb
+C:\Users\Administrator\Desktop\新建文件夹\a\a\obj\x86\Debug\a.exe
+C:\Users\Administrator\Desktop\新建文件夹\a\a\obj\x86\Debug\a.pdb
+C:\Users\Administrator\Desktop\新建文件夹\a\a\obj\x86\Debug\a.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\董博彦\a\a\obj\x86\Debug\a.exe
+C:\Users\Administrator\Desktop\董博彦\a\a\obj\x86\Debug\a.pdb
